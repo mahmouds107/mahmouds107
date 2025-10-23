@@ -112,22 +112,13 @@ If it involves **security alerts, packets, or phishing emails** — count me in!
 
 ---
 
-### 📜 License
 
-This portfolio is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-> You may share this work with credit. Commercial use and modifications are not allowed.
-
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoudsaad10/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mahmoudsaad10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/mahmoudsaad"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
 
 ---
