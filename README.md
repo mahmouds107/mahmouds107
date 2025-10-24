@@ -12,8 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=MahmoudSaad10&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudsaad10/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsaad10@gmail.com)
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourusername)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsaad8701@gmail.com)
 
 </div>
 
@@ -214,10 +213,8 @@ Python automation for SOC workflows:
 | **Google Cybersecurity Professional** | ✅ Completed | SOC Fundamentals |
 | **(ISC)² Certified in Cybersecurity (CC)** | ✅ Completed | Security Principles |
 | **TryHackMe SOC Level 1** | ✅ Completed | Threat Detection |
-| **TryHackMe SOC Level 2** | ✅ Completed | Advanced Analysis |
 | **Blue Team Level 1 (BTL1)** | ✅ Completed | Blue Team Ops |
 | **CompTIA Security+** | 🔄 In Progress | Security+ |
-| **Microsoft SC-200** | 🔄 In Progress | Security Operations |
 
 </div>
 
